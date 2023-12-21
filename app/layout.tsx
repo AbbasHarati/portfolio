@@ -20,7 +20,9 @@ export default function RootLayout({
     <html lang="fa" dir="rtl">
       <body className={inter.className}>
         <Navbar />
-        <div className="font-vazir text-center m-2">{children}</div>
+        <div className="font-vazir text-center mt-20 m-4">
+          {children}
+        </div>
         <Footer />
       </body>
     </html>
