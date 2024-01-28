@@ -1,6 +1,8 @@
-
-export default function servicesPage(){
-    return(
-        <div>Services page</div>
-    )
+export default function servicesPage() {
+  return (
+    <>
+      <div>Services page</div>
+      
+    </>
+  );
 }
