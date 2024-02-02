@@ -1,5 +1,5 @@
 import Image from "@/node_modules/next/image";
-import ProjectsCards from "./ProjectsCards";
+
 
 const projectsData = [
   {

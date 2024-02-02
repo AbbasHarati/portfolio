@@ -15,6 +15,10 @@ export default function NavLinks() {
       path: `./about`,
     },
     {
+      title: "مطالب آموزشی",
+      path: `./educationals`,
+    },
+    {
       title: "ویدئو های آموزشی",
       path: `./videos`,
     },
